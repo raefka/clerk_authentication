@@ -1,4 +1,4 @@
-import connect from "@/lib/db";
+/*import connect from "@/lib/db";
 import User from "@/lib/modals/user.modal";
 import Animal from "@/lib/modals/animal";
 import { NextResponse } from "next/server";
@@ -33,4 +33,4 @@ export const POST = async (request: Request) => {
       });
     }
   };
-  
+  */

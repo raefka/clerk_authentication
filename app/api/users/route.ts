@@ -1,4 +1,4 @@
-import connect from "@/lib/db";
+/*import connect from "@/lib/db";
 import User from "@/lib/modals/user.modal";
 import { NextResponse } from "next/server";
 import { Types } from "mongoose";
@@ -118,3 +118,4 @@ export const DELETE = async (request: Request) => {
     });
   }
 };
+*/
